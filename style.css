@@ -1,0 +1,15 @@
+#heading {                  /*use h1 to acces by name or #id to access by id&=*/
+    color:rgb(108, 8, 8);
+}
+
+.heading2{
+    background-color: darkred;
+}
+
+body{
+    background-color: brown;
+}
+
+button{
+    background-color: rgb(255, 213, 0);
+}
